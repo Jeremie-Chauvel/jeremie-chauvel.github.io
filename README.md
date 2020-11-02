@@ -2,7 +2,7 @@
 
 ## Purpose
 
-The goal was to showcase that's it possible to create a basic portfolio personal website hosted on github pages in about 30min.
+The goal was to showcase that's it possible to create a basic portfolio personal website hosted on github pages in about 30min (-> 1h for optimization).
 available on [jeremie-chauvel.github.io](https://jeremie-chauvel.github.io)
 
 ## Theme Credits
